@@ -1,4 +1,4 @@
-# Cảm biến ánh sáng MKE-S03 Photo Diode light sensor
+# Cảm biến ánh sáng MKE-S03 Photo Diode Light Sensor
 
 ## Giới thiệu
 
