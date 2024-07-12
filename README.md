@@ -2,9 +2,9 @@
 
 ## Giới thiệu
 
-Cảm biến ánh sáng MKE-S03 Photo Diode light sensor được sử dụng để đo cường độ ánh sáng bằng Photo Diode, thích hợp với các ứng dụng: đo cường độ sáng môi trường, bật tắt đèn tự động,..., cảm biến trả ra giá trị điện áp Analog tuyến tính tương ứng với cường độ ánh sáng của môi trường giúp bạn có thể ghi nhận và xử lý thông tin một cách chính xác nhất, ngoài ra cảm biến còn được bổ sung các thiết kế ổn định, chống nhiễu.
+Cảm biến ánh sáng MKE-S03 Photo Diode Light Sensor được sử dụng để đo cường độ ánh sáng bằng Photo Diode, thích hợp với các ứng dụng: đo cường độ sáng môi trường, bật tắt đèn tự động,..., cảm biến trả ra giá trị điện áp Analog tuyến tính tương ứng với cường độ ánh sáng của môi trường giúp bạn có thể ghi nhận và xử lý thông tin một cách chính xác nhất, ngoài ra cảm biến còn được bổ sung các thiết kế ổn định, chống nhiễu.
 
-Cảm biến ánh sáng MKE-S03 Photo Diode light sensor thuộc hệ sinh thái phần cứng Robotics MakerEdu nên có thể sử dụng trực tiếp an toàn với các mạch điều khiển trung tâm ở cả hai mức điện áp 3.3VDC và 5VDC như: Arduino, Raspberry Pi, Jetson Nano, Micro:bit,....với chuẩn kết nối Connector XH2.54 thông dụng.
+Cảm biến ánh sáng MKE-S03 Photo Diode Light Sensor thuộc hệ sinh thái phần cứng Robotics MakerEdu nên có thể sử dụng trực tiếp an toàn với các mạch điều khiển trung tâm ở cả hai mức điện áp 3.3VDC và 5VDC như: Arduino, Raspberry Pi, Jetson Nano, Micro:bit,....với chuẩn kết nối Connector XH2.54 thông dụng.
 
 ## Nguyên lý hoạt động
 
