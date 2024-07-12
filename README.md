@@ -10,7 +10,7 @@ Cảm biến ánh sáng MKE-S03 Photo Diode light sensor thuộc hệ sinh thái
 
 Cảm biến hoạt động dựa trên sự thay đổi điện trở (độ dẫn điện) của quang trở (LDR-Light Dependent Resistor) với cường độ ánh sáng của môi trường, để chuyển giá trị điện trở thành điện áp để có thể đọc bằng bộ chuyển đổi ADC (Analog to Digital Converter) của mạch xử lý ta mắc mạch cầu phân áp như sau:
 
-![MKE_S03_LDR](/image/MKE_S03_1.jpg)
+![MKE_S03](/image/MKE_S03_1.jpg)
 
 Diễn giải các giá trị:
 
@@ -35,13 +35,13 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 
 ## Hình ảnh sản phẩm
 
-![MKE_S03_LDR](/image/MKE_S03_2.jpg)
+![MKE_S03](/image/MKE_S03_2.jpg)
 
-![MKE_S02_LDR](/image/MKE_S03_3.jpg)
+![MKE_S03](/image/MKE_S03_3.jpg)
 
 ## Kích thước sản phẩm
 
-![MKE_S02_LDR](/image/MKE_S03_4.JPG)
+![MKE_S03](/image/MKE_S03_4.JPG)
 
 ## Các chân tín hiệu
 
